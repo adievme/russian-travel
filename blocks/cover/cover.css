@@ -13,7 +13,7 @@
     .cover {
         width: calc(100% + 96px);
         margin-left: -48px;
-        height: 640px
+        height: 640px;
     }
 }
 
