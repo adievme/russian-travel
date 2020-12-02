@@ -1,0 +1,10 @@
+.place__website {
+    align-self: end;
+    margin-bottom: 48px;
+}
+
+@media screen and (max-width: 670px) {
+    .place__website {
+        display: none;
+    }
+}
