@@ -3,8 +3,9 @@
     font-size: 18px;
     line-height: 22px;
     font-weight: 400;
+    transition: opacity linear 0.3s;
 }
 .place__url-link:hover {
-    opacity: 0.7;
-    transition: opacity linear 0.3s;
+    opacity: 0.8;
+    
 }

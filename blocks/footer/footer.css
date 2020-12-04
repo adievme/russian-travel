@@ -3,9 +3,26 @@
     flex-direction: row;
     justify-content: space-between;
     max-width: 1184px;
-    margin: 0 auto;
+    margin: 0 48px;
 }
 
+@media screen and (min-width: 1280px) {
+    .footer {
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .footer {
+        margin: 0 24px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .footer {
+        margin: 0 118px 0 16px;
+    }
+}
 @media screen and (max-width: 670px) {
     .footer {
         flex-direction: column;

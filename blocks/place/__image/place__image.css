@@ -7,9 +7,3 @@
         margin: 0 0 32px 0;
     }
 }
-@media screen and (max-width: 375px) {
-    .place__image {
-        width: calc(32px + 100%);
-        margin-left: -16px;
-    }
-}

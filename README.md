@@ -4,6 +4,6 @@
 
 Адаптивный сайт с применением методологии БЭМ.
 
-https://github.com/adievme/russian-travel.git
+https://adievme.github.io/russian-travel/index.html 
 
 
